@@ -1,0 +1,80 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Alireza Tajadod
+    tagline: Backend Developer
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: alireza.tjd77@gmail.com
+    phone: 989140573035
+    website: code4life.ir #do not add http://
+    linkedin: develhoper
+    github: develhopper
+    telegram: develhoper
+    gitlab:
+    bitbucket:
+    twitter: '@develhoper'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://jobinja.ir/user/develhoper/download
+
+    languages:
+      - idiom: Persian
+        level: Native
+
+      - idiom: Englisg
+        level: Basic
+
+    interests:
+      - item: Walking
+        link:
+
+      - item: Philosophy
+        link:
+
+      - item: Computers
+        link:
+
+projects:
+    title: Projects
+    intro: >
+      My open source projects
+    assignments:
+      - title: PHP MVC framework
+        link: "https://github.com/develhopper/php-mvc"
+        tagline: "A PHP MVC microframework"
+
+      - title: Primal
+        link: "https://github.com/develhopper/primal"
+        tagline: "template engine library for PHP"
+
+      - title: Qbuilder
+        link: "https://github.com/develhopper/Qbuilder"
+        tagline: "PHP database query builder and orm library"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: PHP
+        level: 90%
+
+      - name: Javascript & jQuery
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: OS & Linux
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
